@@ -1,11 +1,11 @@
-body{
+/* body{
     background-color:#ffe0ff;
     color: #fff;
     font-family: 'Roboto', sans-serif;
     font-size: 16px;
     /* margin: 0;
     padding: 0;
-    text-align: center; */
+    text-align: center; 
 
 }
 input,select, textarea{
@@ -16,7 +16,7 @@ input,select, textarea{
     padding: 5px;
 }
 
-/* seletor por id */
+/* seletor por id 
 #btn1 {
     width: 20%;
     background-color: fuchsia;
@@ -27,7 +27,7 @@ input,select, textarea{
     align-content: center;
 }
 
-/* seletor por apelido */
+/* seletor por apelido 
 .titulo {
     color: #c33b80;
     border-bottom: dotted 5px #ff69b4;
@@ -54,7 +54,7 @@ label{
         width: 70%;
         margin-left: 15%;
         height: 90vh;
-        background-color:#ffa8d9  ;
+        background-color:#450094  ;
         border: #89004f solid 5px;
         padding: 10px;
         box-shadow: 8px 8px 5px 8px #4d002d
@@ -71,4 +71,4 @@ label{
     #btn1{
         width: 100%;
     }
-}
+} */
